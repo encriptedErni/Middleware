@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\dagar\\Desktop\\mq\\lib\\imqjmx.jar",
+        "c:\\Users\\dagar\\Desktop\\mq\\lib\\jms.jar",
+        "f:\\ETSIINF\\7º SEMESTRE\\Middleware\\mq\\lib\\imqjmx.jar",
+        "f:\\ETSIINF\\7º SEMESTRE\\Middleware\\mq\\lib\\jms.jar"
+    ]
+}
