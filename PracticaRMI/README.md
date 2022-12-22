@@ -1,7 +1,7 @@
 <h1>Middleware Practica 2 </h1>
 
 <body>
-<h2>Alumnos: </h2>
+<h2>Developers: </h2>
 <ul>
 <li>Ramiro Lopez Cento</li>
 <li>Esteban Aspe Ruiz</li>
